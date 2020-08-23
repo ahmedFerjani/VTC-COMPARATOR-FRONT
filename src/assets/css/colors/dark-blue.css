@@ -1,0 +1,559 @@
+#main-menu ul li a:hover {
+	background: #2a41e8;
+}
+#main-menu .dropdown-menu a:hover {
+	background: #2a41e8;
+}
+.bloq-search input[type="text"] {
+	border: 1px solid #2a41e8;
+}
+.bloq-search input[type="submit"] {
+	background: #2a41e8;
+}
+.google-maps .filter {
+	background: #2a41e8;
+}
+.btn-toggle.btn-lg {
+    background: #2a41e8;
+}
+.single-pricing .pricing-price .price-2 {
+    color: #2a41e8;
+}
+.btn-outline-theme.prices {
+    color: #fff;
+    border: 1px solid #2a41e8;
+}
+.btn-outline-theme.ext {
+    color: #fff;
+}
+/** START COLORS **/
+.get-quote:hover {
+    background-color: #2a41e8;
+}
+.sec-title h2 {
+    color: #2a41e8;
+}
+.feature-categories .listing-badges .featured {
+    background-color: #2a41e8;
+}
+.btn.btn-outline-light {
+    color: #2a41e8;
+    border-color: #2a41e8;
+}
+.btn.btn-outline-light:hover {
+    background: #2a41e8;
+    color: #fff;
+    border-color: #2a41e8;
+}
+.popular .homes-content .homes-address .fa-map-marker {
+    color: #2a41e8;
+}
+.how-it-works .sec-title h2 {
+    color: #2a41e8;
+}
+.visited-cities .listing-badges .featured {
+    background-color: #2a41e8;
+}
+section.counterup {
+    background: #2a41e8;
+}
+.counterup .countr .fa {
+    color: #fff !important;
+}
+.plan-name {
+    background: #2a41e8;
+}
+.plan-price {
+    background: #edeff1 !important;
+    color: #2a41e8;
+}
+.testimonials .test-1 p::after {
+    color: #2a41e8;
+}
+.blog-section .action-list .fa-heart {
+    color: #2a41e8;
+}
+.blog-section .action-list .fa-comment {
+    color: #2a41e8;
+}
+.blog-section .action-list .fa-share-alt {
+    color: #2a41e8;
+}
+.first-footer .contactus ul li .fa {
+    color: #fff;
+}
+.widget.quick-link ul li a:hover:before {
+    color: #2a41e8;
+}
+.widget.quick-link ul li a:hover {
+    color: #2a41e8;
+}
+.first-footer .newsletters h3::after {
+    background-color: #2a41e8;
+}
+.first-footer .bloq-email .email input[type="email"] {
+    border: 1px solid #2a41e8;
+}
+.first-footer .bloq-email .email input[type="submit"] {
+    border: 1px solid #2a41e8;
+    background: #2a41e8;
+}
+.first-footer .netsocials a .fa-facebook,
+.first-footer .netsocials a .fa-twitter,
+.first-footer .netsocials a .fa-google-plus,
+.first-footer .netsocials a .fa-youtube {
+    color: #fff;
+}
+.inner-pages .blog .block-heading .heading-icon {
+    background: #2a41e8;
+}
+.inner-pages .blog .change-view-btn {
+    border: 1px solid #2a41e8;
+}
+.inner-pages .blog .main-search-field select {
+	background: transparent;
+    color: #000;
+}
+.inner-pages .blog .main-search-field select {
+    border: 2px solid #2a41e8;
+}
+.filter-tags input:checked:after, .custom-form .filter-tags input:checked:after {
+    color: #0098ef;
+}
+a.page-link:hover {
+    background: #2a41e8;
+}
+.header-top.head-2 {
+    background: #2a41e8;
+}
+.inner-pages span.category-tag {
+    color: #2a41e8;
+    border: 1px solid #2a41e8;
+}
+.widget-boxed-header h4 .fa {
+    color: #2a41e8;
+}
+.widget-boxed .input-group .fa {
+    color: #2a41e8;
+}
+.input-group-btn:first-child > .btn:hover {
+    background: #2a41e8;
+}
+.theme-btn, .theme-btn:focus, .theme-btn:hover, .theme-btn:active {
+    background: #2a41e8;
+    border: 1px solid #2a41e8;
+}
+.recent-post.tags .fas.fa-tags {
+    color: #2a41e8;
+}
+.inner-pages .recent-post.tags .tags a,
+.inner-pages .add-review-photos {
+    border: 1px solid #2a41e8;
+}
+.about-us .popup-youtube {
+    color: #fff;
+}
+
+.about-us .btn.btn-primary.btn-lg {
+    background: #2a41e8;
+}
+.user-profile-box .header,
+.user-profile-box .detail ul li .active,
+.inner-pages .section-inforamation .btn-primary, .inner-pages .my-address .btn-primary,
+.btn-common,
+.pagination-container .pagination .page-item .page-link:hover {
+    background: #2a41e8;
+}
+.dashborad-box .item .icon,
+.dashborad-box a,
+.messages .message .body .post-time,
+.review .body .post-time,
+.my-properties table tbody tr td.actions .edit,
+.my-properties table tbody tr td.actions a,
+.pagination-container .pagination .page-item .page-link {
+    color: #2a41e8;
+}
+.inner-pages .property-form-group .dz-message {
+    border: 2px dashed #2a41e8;
+}
+.inner-pages .dz-default i,
+.inner-pages .dz-default.dz-message > span {
+    color: #2a41e8;
+}
+.inner-pages .faq-contact h3::after,
+.inner-pages .faq .btn.btn-primary {
+    background-color: #2a41e8;
+}
+.tr-single-header i {
+    color: #2a41e8;
+}
+.main-block .btn-outline-danger {
+    color: #2a41e8;
+    border-color: #2a41e8;
+}
+.main-block .btn-outline-danger:hover {
+    background: #2a41e8;
+}
+.inner-pages .blog-section .action-list .fa-heart,
+.inner-pages .blog-section .action-list .fa-comment,
+.inner-pages .blog-section .action-list .fa-share-alt,
+.inner-pages .blog-section .news-link {
+    color: #2a41e8;
+}
+.inner-pages .recent-post .tags a {
+    background: #2a41e8;
+    border: 1px solid #2a41e8;
+}
+.inner-pages .recent-post ul li a:hover {
+    color: #2a41e8;
+}
+.inner-pages .c_details_item .media .media-left i {
+    border: 2px solid #2a41e8;
+    color: #2a41e8;
+}
+.leaflet-div-icon,
+.map-marker {
+	background-color: #2a41e8;
+	border: 5px solid #2a41e8;
+}
+.leaflet-div-icon:before,
+.map-marker:before {
+	border-top-color: #2a41e8;
+}
+.listing-window-image:before,
+.cluster-visible {
+    background: #2a41e8;
+}
+.search-2 .form-group .nice-select:hover {
+	color: #2a41e8;
+}
+.search-2 .form-group .nice-select::after {
+	color: #2a41e8;
+}
+.search-2 .form-group .nice-select i {
+	color: #2a41e8;
+}
+.search-2 .form-group .list li:hover,
+.search-2 .form-group .btn {
+    background: #2a41e8;
+}
+.see-all a {
+    text-decoration: none;
+    display: inline-block;
+    right: 0;
+    bottom: 0;
+    position: absolute
+}
+@media (max-width: 767px) {
+    .see-all a {
+        top: -10px
+    }
+}
+.see-all a:after {
+    font-family: 'FontAwesome';
+    content: "\f178";
+    font-size: 17px;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    position: relative;
+    top: 1px;
+    margin-left: 6px;
+}
+@media (max-width: 575px) {
+    .section-title h2 {
+        font-size: 25px;
+    }
+}
+.popular-job-item:hover:before {
+    background: #2a41e8;
+}
+.slick-dots li.slick-active {
+    box-shadow: inset 0 0 0 6px #0098ef;
+}
+.slick-dots li {
+    color: #2a41e8;
+    box-shadow: inset 0 0 0 2px #0098ef;
+}
+.slick-dots li:after {
+    background: #2a41e8;
+}
+.feature-cities-1 .listing-badges .featured {
+    background: #2a41e8;
+}
+/** END COLORS **/
+.section-title:before {
+	background-color: #2a41e8;
+}
+.section-title h2 {
+	color: #2a41e8;
+}
+.recently .homes-content .homes-list li {
+	color: #2a41e8;
+}
+.recently .homes-content .homes-list li i {
+	color: #2a41e8;
+}
+.welcome-title h2 span,
+.welcome-title h2 span {
+	color: #2a41e8;
+}
+.welcome .popup-youtube {
+	color: #2a41e8;
+}
+.welcome .wprt-image-video .iq-waves .waves {
+	background: rgb(0, 152, 239) none repeat scroll 0 0 padding-box;
+}
+.services-home .bg-base {
+	background: #2a41e8;
+}
+.services-home a.text-base {
+	color: #2a41e8;
+}
+.portfolio .homes-content .homes-list li {
+	color: #2a41e8;
+}
+.portfolio .homes-content .homes-list li i {
+	color: #2a41e8;
+}
+.top-location .owl-theme .owl-nav [class*=owl-] {
+	background: #2a41e8;
+}
+.blog-section .news-item a:hover h3 {
+	color: #2a41e8;
+}
+.blog-section .news-link {
+	color: #2a41e8;
+}
+.testimonials .test-1 p::before {
+	color: #2a41e8;
+}
+.testimonials .test-1 h3 {
+	color: #2a41e8;
+}
+.owl-dot.active {
+	background: #2a41e8 !important;
+}
+.counterup .countr .fa {
+	color: #2a41e8;
+}
+.realhome_subscribe input {
+	border-color: #2a41e8;
+}
+.realhome_form_subscribe button {
+	background: #2a41e8;
+	border: 2px solid #2a41e8;
+}
+.first-footer .netabout h3::after,
+.first-footer .navigation h3::after,
+.first-footer .widget h3::after,
+.first-footer .contactus h3::after {
+	background-color: #2a41e8;
+}
+.first-footer .btn {
+	background: #2a41e8;
+}
+.first-footer .btn:hover {
+	background: transparent;
+}
+.navigation ul li a:hover {
+	color: #2a41e8;
+}
+.twitter-widget.contuct .twitter-area .icon-holder i {
+	color: #2a41e8;
+}
+.twitter-widget.contuct .twitter-area .text h4,
+.inner-pages .twitter-widget.contuct .twitter-area .text h4 {
+	color: #2a41e8;
+}
+.second-footer {
+	background: #2a41e8;
+}
+.go-up {
+	background: #2a41e8;
+}
+.main-search-field {
+	background: #2a41e8;
+}
+.btn-default.btn-theme-colored2:hover {
+	background: #2a41e8;
+}
+.text-theme-colored2 {
+	color: #2a41e8 !important;
+}
+.btn-dark.btn-theme-colored {
+	background-color: #2a41e8;
+}
+.parallax-search .form-group .nice-select:hover {
+	color: #2a41e8;
+}
+.parallax-search .form-group .nice-select i {
+	color: #2a41e8;
+}
+.parallax-search .form-group .list li:hover {
+	background: #2a41e8;
+}
+.parallax-search .form-group .btn {
+	background: #2a41e8;
+}
+.inner-pages .blog .active-view-btn:hover {
+	background: #2a41e8 !important;
+}
+.inner-pages .change-view-btn:hover {
+	color: #2a41e8 !important;
+}
+.inner-pages .blog .block-heading .change-view-btn.lde:hover {
+	background: #2a41e8;
+}
+.inner-pages .blog .section-heading .media .media-left i {
+	background: #2a41e8;
+}
+.inner-pages .blog .at-input {
+	border: 2px solid #2a41e8;
+}
+.inner-pages .blog .ui-widget.ui-widget-content {
+	background: #2a41e8;
+}
+.inner-pages .blog .hvr-bounce-to-right {
+	background: #2a41e8;
+}
+.inner-pages .widget h5::after {
+	background-color: #2a41e8;
+}
+.inner-pages .portfolio .footer i {
+	color: #2a41e8;
+}
+.inner-pages .recent-post .tags a:hover {
+	color: #2a41e8;
+	border-color: #2a41e8;
+}
+.page-item.active .page-link {
+    background: #2a41e8;
+    border-color: #2a41e8;
+}
+.page-link {
+    color: #2a41e8;
+}
+.inner-pages .blog .homes-content.details-2 .fa {
+	color: #2a41e8;
+}
+.inner-pages .blog .sorting-options h5 {
+	color: #2a41e8;
+}
+.inner-pages .blog .homes-content h5::after,
+.inner-pages .blog .blog-info.details h5::after,
+.inner-pages .blog .property-location h5::after,
+.inner-pages .blog .team.assigned h5::after {
+	color: #2a41e8;
+	background-color: #2a41e8;
+}
+.inner-pages .blog .homes-content.details .fa {
+	color: #2a41e8;
+}
+.inner-pages .button.alt {
+	background-color: #2a41e8;
+}
+.inner-pages .agent-details a:hover {
+	color: #2a41e8;
+}
+.inner-pages .agent-details .fa {
+	color: #2a41e8;
+}
+.inner-pages .about-us .who-1 h2 span {
+	color: #2a41e8;
+}
+.inner-pages .about-us .wprt-image-video .icon-wrap {
+	background-color: #2a41e8;
+}
+.bg-2 .button {
+    border-color: #2a41e8;
+}
+.inner-pages .panel .panel-heading a {
+	background: #2a41e8;
+}
+.plan-price {
+	background: #2a41e8;
+}
+.plan-price:after {
+	border-top-color: #2a41e8;
+}
+.plan a.btn {
+	background: #2a41e8;
+}
+.inner-pages .top-headings h2 {
+	color: #2a41e8;
+}
+.inner-pages .port-info .btn {
+	background: #2a41e8;
+	border: 1px solid #2a41e8;
+}
+#login .btn_1, a.btn_1 {
+    background: #2a41e8;
+}
+.inner-pages .blog .social .date {
+	background-color: #2a41e8;
+}
+.blog-pots figure {
+	background: #2a41e8;
+}
+.blog .blog-pots .fa {
+	color: #2a41e8;
+}
+.btn-secondary {
+	background: #2a41e8;
+}
+.single-blog-post .img-box .overlay {
+	background: rgba(0, 152, 239, 0.8);
+}
+.inner-pages .form-control {
+	border: 1px solid #2a41e8;
+}
+.inner-pages .input-group-btn .btn-primary {
+	background: #2a41e8;
+	border: 1px solid #2a41e8;
+}
+.inner-pages .input-group-btn .btn-primary:hover {
+	color: #2a41e8;
+}
+.inner-pages .comments-info h5 {
+	color: #2a41e8;
+}
+.inner-pages .comments h3::after,
+.inner-pages .leve-comments h3::after {
+	background-color: #2a41e8;
+}
+.inner-pages .leve-comments .btn {
+	background: #2a41e8;
+	border: 1px solid #2a41e8;
+}
+.inner-pages .leve-comments .btn:hover {
+	border: 1px solid #2a41e8;
+}
+.inner-pages .contact-us .btn {
+	background: #2a41e8;
+	border: 1px solid #2a41e8;
+}
+.inner-pages .contact-us .btn:hover {
+	border: 1px solid #2a41e8;
+}
+.inner-pages .call-info h3::after {
+	background-color: #2a41e8;
+}
+.inner-pages .call-info ul li .fa {
+	color: #2a41e8;
+}
+.inner-pages .single-add-property > h3 {
+	color: #2a41e8;
+}
+.inner-pages .prperty-submit-button > button {
+	background: #2a41e8 none repeat scroll 0 0;
+}
+a.button.border, a.button,
+.info-help .info-head .info-text .btn-pro {
+    background: #2a41e8;
+}
+#navigation.style-1 ul li:hover {
+    background: #2a41e8;
+}
